@@ -6,7 +6,21 @@ For more info, check my website: https://yegon-app.vercel.app/
 
 ## Here's my expertise:
 #### 🖥️ Front-End Development:
- With a keen eye for design and advanced proficiency in HTML, CSS, JavaScript, React.js, AngularJS, Next.js, and Tailwind CSS, I craft engaging and responsive user interfaces that enhance user experience and accessibility.<br><br>⚙️ Back-End Development: I excel in designing and implementing robust server-side systems using Java (Spring Boot, Microservice & Security), Python (Django, Flask), and Node.js (Express), ensuring high performance, security, and seamless functionality.<br><br>🗄️ Database Design & Development: I specialize in architecting scalable and secure database solutions, leveraging both SQL databases (PostgreSQL, MySQL) and NoSQL databases (MongoDB, Apache Cassandra) to meet diverse data management needs.<br><br>🌐 API Development: I design and develop diverse APIs, including RESTful, SOAP, and GraphQL, to facilitate smooth and efficient communication between applications and services.<br> <br>🔧 DevOps: I utilize tools like Jenkins for continuous integration and delivery, Kubernetes for container orchestration, and Docker for containerization, streamlining development and deployment processes.<br><br>📊 Monitoring Tools: I use Prometheus and Grafana for real-time performance tracking and issue resolution, and AWS CloudWatch for comprehensive cloud infrastructure monitoring, ensuring system reliability and effective performance management.<br><br>☁️ Cloud Infrastructure: I utilize AWS cloud services to enhance application scalability and reliability, focusing on optimizing resource management, deployment strategies, and cost efficiency.<br> <br>🔁 Version Control: I manage and track code changes efficiently using Git, GitHub, GitLab, Bitbucket, and Azure DevOps, supporting collaborative development and ensuring seamless integration across teams.
+With a keen eye for design and advanced proficiency in HTML, CSS, JavaScript, React.js, AngularJS, Next.js, and Tailwind CSS, I craft engaging and responsive user interfaces that enhance user experience and accessibility.
+#### ⚙️ Back-End Development:
+I excel in designing and implementing robust server-side systems using Java (Spring Boot, Microservice & Security), Python (Django, Flask), and Node.js (Express), ensuring high performance, security, and seamless functionality.<br><br>
+#### 🗄️ Database Design & Development:
+I specialize in architecting scalable and secure database solutions, leveraging both SQL databases (PostgreSQL, MySQL) and NoSQL databases (MongoDB, Apache Cassandra) to meet diverse data management needs.<br><br>
+#### 🌐 API Development:
+I design and develop diverse APIs, including RESTful, SOAP, and GraphQL, to facilitate smooth and efficient communication between applications and services.<br> <br>
+#### 🔧 DevOps:
+I utilize tools like Jenkins for continuous integration and delivery, Kubernetes for container orchestration, and Docker for containerization, streamlining development and deployment processes(CI/CD).<br><br>
+#### 📊 Monitoring Tools:
+I use Prometheus and Grafana for real-time performance tracking and issue resolution, and AWS CloudWatch for comprehensive cloud infrastructure monitoring, ensuring system reliability and effective performance management.<br><br>
+#### ☁️ Cloud Infrastructure:
+I utilize AWS cloud services to enhance application scalability and reliability, focusing on optimizing resource management, deployment strategies, and cost efficiency.<br> <br>
+#### 🔁 Version Control:
+I manage and track code changes efficiently using Git, GitHub, GitLab, Bitbucket, and Azure DevOps, supporting collaborative development and ensuring seamless integration across teams.
 
 ---
 
