@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Yegon:
-I am a dynamic and versatile full-stack software engineer with a passion for solving complex problems using modern technology. My expertise spans front-end and back-end development, database management, and seamless API integration. Proficient in DevOps practices, I leverage AWS cloud infrastructure to enhance performance and scalability. I utilize DevOps tools and version control systems like Git and GitLab for efficient workflows and monitoring tools like Prometheus and Grafana for real-time performance tracking. My commitment to customer and service delivery drives me to create innovative solutions that exceed client expectations. Here's my expertise:<br><br>🖥️ Front-End Dev: With an eye for design and proficiency in JavaScript, React.js, and AngularJS, I create visually stunning user interfaces.<br><br>⚙️ Back-End Dev: I thrive in Java (Spring Boot), Python (Django, Flask), Node.js (Express), crafting efficient server-side systems that drive seamless functionality.<br><br>🗄️ Database Design & Development: I specialize in MongoDB, Apache Cassandra, PostgreSQL, and MySQL, architecting scalable and secure database solutions.<br><br>🌐 API Development: Using Express.js, I engineer powerful RESTful and GraphQL APIs that enable smooth communication between applications.<br> <br>🔧 DevOps: I utilize tools like Jenkins for continuous integration and delivery, Kubernetes for container orchestration, and Docker for containerization, streamlining development and deployment processes.<br><br>📊 Monitoring Tools: I use Prometheus and Grafana for real-time performance tracking and issue resolution, ensuring system reliability and performance.<br><br>☁ Cloud: I leverage AWS cloud infrastructure to enhance scalability and reliability, optimizing deployment and resource management.<br> <br> 🔁 Version Control: I manage code efficiently with Git and GitLab, facilitating collaboration and version management.<br><br>💬 Let's collaborate and innovate together! Dive into my repositories and connect. I am ready to develop software and programs that deliver creative and innovative solutions, addressing diverse user needs.
+I am a dynamic and versatile full-stack software engineer with a passion for solving complex problems using modern technology. My expertise spans front-end and back-end development, database management, and seamless API integration. Proficient in DevOps practices, I leverage AWS cloud infrastructure to enhance performance and scalability. I utilize DevOps tools and version control systems like Git and GitLab for efficient workflows and monitoring tools like Prometheus and Grafana for real-time performance tracking. My commitment to customer and service delivery drives me to create innovative solutions that exceed client expectations. 
 
 ---
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yegon.ke) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mryegon/) 
+## Here's my expertise:
+🖥️ Front-End Dev: With an eye for design and proficiency in JavaScript, React.js, and AngularJS, I create visually stunning user interfaces.<br><br>⚙️ Back-End Dev: I thrive in Java (Spring Boot), Python (Django, Flask), Node.js (Express), crafting efficient server-side systems that drive seamless functionality.<br><br>🗄️ Database Design & Development: I specialize in MongoDB, Apache Cassandra, PostgreSQL, and MySQL, architecting scalable and secure database solutions.<br><br>🌐 API Development: Using Express.js, I engineer powerful RESTful and GraphQL APIs that enable smooth communication between applications.<br> <br>🔧 DevOps: I utilize tools like Jenkins for continuous integration and delivery, Kubernetes for container orchestration, and Docker for containerization, streamlining development and deployment processes.<br><br>📊 Monitoring Tools: I use Prometheus and Grafana for real-time performance tracking and issue resolution, ensuring system reliability and performance.<br><br>☁ Cloud: I leverage AWS cloud infrastructure to enhance scalability and reliability, optimizing deployment and resource management.<br> <br> 🔁 Version Control: I manage code efficiently with Git and GitLab, facilitating collaboration and version management.<br><br>💬 Let's collaborate and innovate together! Dive into my repositories and connect. I am ready to develop software and programs that deliver creative and innovative solutions, addressing diverse user needs.
 
 ---
 
@@ -13,20 +13,8 @@ I am a dynamic and versatile full-stack software engineer with a passion for sol
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yegon-gk&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yegon-gk&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yegon-gk&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yegon-gk&theme=flat&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yegon-gk&limit=5&theme=flat&combine_all_yearly_contributions=true)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yegon.ke) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mryegon/) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yegon-gk&icon=0&color=12)](https://visitcount.itsvg.in)
